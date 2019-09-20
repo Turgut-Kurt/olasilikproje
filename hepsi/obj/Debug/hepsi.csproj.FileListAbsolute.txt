@@ -1,0 +1,24 @@
+c:\users\trgt\documents\visual studio 2015\Projects\hepsi\hepsi\bin\Debug\hepsi.exe.config
+c:\users\trgt\documents\visual studio 2015\Projects\hepsi\hepsi\bin\Debug\hepsi.exe
+c:\users\trgt\documents\visual studio 2015\Projects\hepsi\hepsi\bin\Debug\hepsi.pdb
+c:\users\trgt\documents\visual studio 2015\Projects\hepsi\hepsi\obj\Debug\hepsi.csprojResolveAssemblyReference.cache
+c:\users\trgt\documents\visual studio 2015\Projects\hepsi\hepsi\obj\Debug\hepsi.Properties.Resources.resources
+c:\users\trgt\documents\visual studio 2015\Projects\hepsi\hepsi\obj\Debug\hepsi.csproj.GenerateResource.Cache
+c:\users\trgt\documents\visual studio 2015\Projects\hepsi\hepsi\obj\Debug\hepsi.exe
+c:\users\trgt\documents\visual studio 2015\Projects\hepsi\hepsi\obj\Debug\hepsi.pdb
+C:\Users\trgt\Documents\Visual Studio 2015\Projects\hepsi\hepsi\obj\Debug\form1.Form1.resources
+C:\Users\trgt\Documents\Visual Studio 2015\Projects\hepsi\hepsi\obj\Debug\hepsi.Genelform.resources
+C:\Users\trgt\Documents\Visual Studio 2015\Projects\hepsi\hepsi\obj\Debug\form2.Form2.resources
+C:\Users\trgt\Documents\Visual Studio 2015\Projects\hepsi\hepsi\obj\Debug\genel.Genel.resources
+D:\Projects\hepsi\hepsi\bin\Debug\hepsi.exe.config
+D:\Projects\hepsi\hepsi\bin\Debug\hepsi.exe
+D:\Projects\hepsi\hepsi\bin\Debug\hepsi.pdb
+D:\Projects\hepsi\hepsi\obj\Debug\hepsi.csprojResolveAssemblyReference.cache
+D:\Projects\hepsi\hepsi\obj\Debug\form1.Form1.resources
+D:\Projects\hepsi\hepsi\obj\Debug\form2.Form2.resources
+D:\Projects\hepsi\hepsi\obj\Debug\genel.Genel.resources
+D:\Projects\hepsi\hepsi\obj\Debug\hepsi.Genelform.resources
+D:\Projects\hepsi\hepsi\obj\Debug\hepsi.Properties.Resources.resources
+D:\Projects\hepsi\hepsi\obj\Debug\hepsi.csproj.GenerateResource.Cache
+D:\Projects\hepsi\hepsi\obj\Debug\hepsi.exe
+D:\Projects\hepsi\hepsi\obj\Debug\hepsi.pdb
